@@ -1,6 +1,6 @@
 package basics;
 
-public class StudentDetails {
+public class VariableExample {
 
 	    public static void main(String[] args) {
 
