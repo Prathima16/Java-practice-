@@ -1,6 +1,6 @@
 package basics;
 
-public class VariablesExamples {
+public class DatatypesExamples {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
@@ -16,3 +16,4 @@ public class VariablesExamples {
 	}
 
 }
+
